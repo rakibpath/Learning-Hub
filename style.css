@@ -1,3 +1,5 @@
 .background-color {
-    background-color: blue;
+    background-color: #289BDE;
+    border-radius: 5px;
+    border: 1px solid #289BDE;
 }
